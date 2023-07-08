@@ -23,10 +23,6 @@
     row-gap: 10px;
 }
 
-.cards{
-    border: 1px solid lightskyblue;
-}
-
 .link-2{
     margin-bottom: 20px;
     margin-left: 20px;
@@ -65,11 +61,11 @@
     margin-right: 220px;
 }
 
-.cards{
+/* .cards{
     font-style: italic;
     border: 1px solid lightskyblue;
     background-color: rgb(135, 223, 255)
-}
+} */
 
 .store{
     margin-left: 300px;
@@ -92,7 +88,7 @@
 .store-4{
     margin-left: 300px;
     margin-right: 220px;
-    background-color: rgb(210, 205, 205)
+    background: linear-gradient(to right, rgb(74, 182, 255), rgb(255, 255, 74));
 }
 
 .shop{
@@ -108,7 +104,7 @@
 }
 
 .shop-4{
-    background: linear-gradient(to right, rgb(186, 186, 186), rgb(255, 255, 255));
+    background: linear-gradient(to right, rgb(180, 225, 255), rgb(255, 242, 160));
 }
 
 
@@ -201,6 +197,64 @@
     margin-top: 50px;
     color: brown;
     margin-bottom: 50px;
+}
+
+.karta{
+    margin-left: 500px;
+    width: 1000px;
+    height: 950px;
+}
+
+@media screen and (max-width: 1024px) {
+    .container-1{
+        margin-left: 10px;
+        display: flex;
+        flex-direction: column; 
+        /* -right: 10px; */
+    }
+
+    .container-2{
+        margin-left: 10px;
+        display: flex;
+        flex-direction: column; 
+        /* -right: 10px; */
+    }
+
+    .cards{
+        font-style: italic;
+        /* border: 1px solid lightskyblue;
+        background-color: rgb(135, 223, 255) */
+    }
+    
+    .store{
+        margin-left: 10px;
+        margin-right: 220px;
+        background-color: rgb(253, 248, 108)
+    }
+    
+    .store-2{
+        margin-left: 00px;
+        margin-right: 220px;
+        background-color: rgb(104, 220, 255)
+    }
+    
+    .store-3{
+        margin-left: 10px;
+        margin-right: 220px;
+        background-color: rgb(210, 205, 205)
+    }
+    
+    .store-4{
+        margin-left: 10px;
+        margin-right: 10px; 
+        background: linear-gradient(to right, rgb(74, 182, 255), rgb(255, 255, 74));
+    }
+
+    .karta{
+        margin-left: 10px;
+        width: 500px;
+        height: 475px;
+    }
 }
 
 .subtitle{
