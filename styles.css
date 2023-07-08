@@ -1,0 +1,202 @@
+.page-wrapper{
+    max-width: 1920px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.block-links{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.block-links3{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.navbar-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    row-gap: 10px;
+}
+
+.cards{
+    border: 1px solid lightskyblue;
+}
+
+.link-2{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.link-3{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.link-4{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.link{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.container-1{
+    display: flex;
+    flex-direction: row; 
+    column-gap: 20px;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 220px;
+}
+
+.container-2{
+    display: flex;
+    flex-direction: row; 
+    column-gap: 20px;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 220px;
+}
+
+.cards{
+    font-style: italic;
+    border: 1px solid lightskyblue;
+    background-color: rgb(135, 223, 255)
+}
+
+.store{
+    margin-left: 300px;
+    margin-right: 220px;
+    background-color: rgb(253, 248, 108)
+}
+
+.store-2{
+    margin-left: 300px;
+    margin-right: 220px;
+    background-color: rgb(104, 220, 255)
+}
+
+.store-3{
+    margin-left: 300px;
+    margin-right: 220px;
+    background-color: rgb(210, 205, 205)
+}
+
+.store-4{
+    margin-left: 300px;
+    margin-right: 220px;
+    background-color: rgb(210, 205, 205)
+}
+
+.shop{
+    background: linear-gradient(to right, rgb(255, 255, 139), rgb(255, 255, 255));
+}
+
+.shop-2{
+    background: linear-gradient(to right, rgb(139, 234, 255), rgb(255, 255, 255));
+}
+
+.shop-3{
+    background: linear-gradient(to right, rgb(186, 186, 186), rgb(255, 255, 255));
+}
+
+.shop-4{
+    background: linear-gradient(to right, rgb(186, 186, 186), rgb(255, 255, 255));
+}
+
+
+.nove{
+    margin-left: 200px;
+}
+
+.zamovutu{
+    margin-top: 200px;
+    padding-top: 1px;
+    padding-bottom: 50px;
+    background-color: rgb(248, 239, 133);
+}
+
+.zamovutu2{
+    margin-left: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.zamovutu3{
+    margin-left: 100px;
+    color: rgb(0, 0, 0);
+}
+
+.zamovutuA{
+    margin-top: 200px;
+    padding-top: 1px;
+    padding-bottom: 50px;
+    background-color: rgb(133, 214, 248);
+}
+
+.zamovutuB{
+    margin-left: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.zamovutuC{
+    margin-left: 100px;
+    color: rgb(0, 0, 0);
+}
+
+.zamovutuA1{
+    margin-top: 50px;
+    padding-top: 1px;
+    padding-bottom: 50px;
+    background-color: rgb(165, 165, 165);
+}
+
+.zamovutuB2{
+    margin-left: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.zamovutuC3{
+    margin-left: 100px;
+    color: rgb(0, 0, 0);
+}
+
+.photo7{
+    width: 300px;
+    height: 300px;
+}
+
+.photo1{
+    width: 300px;
+    height: 300px;
+}
+
+.photo2{
+    width: 300px;
+    height: 300px;
+}
+
+.photo5{
+    width: 300px;
+    height: 300px;
+}
+
+.photo8{
+    width: 300px;
+    height: 300px;
+}
+
+.photo10{
+    width: 300px;
+    height: 300px;
+}
+
+.subtitle{
+    
+}
